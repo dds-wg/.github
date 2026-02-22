@@ -16,8 +16,6 @@ Anyone who opens an issue or submits a pull request. No approval needed. Influen
 
 A Contributor who has earned commit rights by demonstrating sustained, quality contributions and a willingness to help others — not just advance their own interests. Maintainers review and merge pull requests. The BDFL appoints Maintainers; a Maintainer inactive for a year may be removed after being given a chance to return.
 
-Currently: Stuart
-
 ### BDFL
 
 Responsible for the overall vision and project goals. Has final authority on all decisions. In practice defers to Maintainers and community consensus, and only steps in to break deadlocks or when asked. Can appoint their own successor; if unable, Maintainers decide.
