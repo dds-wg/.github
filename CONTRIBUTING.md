@@ -6,17 +6,16 @@ DDS is early-stage and moving fast. All kinds of contributions are welcome, whet
 
 - **Lower barriers, not raise them.** If the process confuses you, that's our bug. File an issue.
 - **Favor progress over perfection.** We'd rather iterate on something real than debate something theoretical. Protocol changes get careful review; everything else moves fast.
-- **No CLA, no copyright assignment.** You own your work. By contributing, you agree to license it under the project's license (BSD+Patent for code, CC-BY-4.0 for docs/specs).
-- **One problem per issue.** Keep issues focused. If you have two bugs, file two issues.
 - **Bias toward doing.** Issues, proposals, and PRs are all welcome, whatever gets the conversation started. For protocol changes, an issue first helps align before investing in implementation.
 
 ## How to Contribute
 
-### Report a Bug or Request a Feature
+### Open an Issue
+
+Issues are for everything: bugs, features, ideas, questions, discussions. At this stage, we want conversation more than structure.
 
 1. Check existing issues first.
 2. Open a new issue with a clear title and description.
-3. One problem per issue.
 
 ### Submit Code or Docs
 
@@ -154,8 +153,7 @@ See [GOVERNANCE.md](GOVERNANCE.md) for the full governance model.
 
 ## License
 
-- **Code:** BSD+Patent (SPDX: `BSD-2-Clause-Patent`)
-- **Specs and docs:** CC-BY-4.0 (SPDX: `CC-BY-4.0`)
+MPL 2.0 (SPDX: `MPL-2.0`)
 
 ## Standards
 

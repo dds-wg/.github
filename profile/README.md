@@ -38,8 +38,7 @@ We're early-stage and looking for people who care about deliberation infrastruct
 
 ## License
 
-- **Code:** BSD+Patent (`BSD-2-Clause-Patent`)
-- **Specs and documentation:** CC-BY-4.0
+MPL 2.0 (`MPL-2.0`)
 
 ---
 

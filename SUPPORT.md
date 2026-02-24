@@ -16,7 +16,7 @@ Real-time chat for quick questions and coordination. We keep it low-volume and h
 
 ### GitHub Issues
 
-Use Issues for **bug reports and feature requests only**, not for questions or discussion. One problem per issue.
+At this stage, issues are open for any kind of discussion: bugs, features, ideas, questions. Use them freely.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to file good issues and submit PRs.
 

@@ -2,7 +2,7 @@
 
 ## The Project
 
-The DDS Project is an open source protocol for secure, censorship-resistant public deliberation. Software is released under BSD-2-Clause-Patent; specifications and documentation under CC-BY-4.0. Everything happens in public at [github.com/dds-wg](https://github.com/dds-wg).
+The DDS Project is an open source protocol for secure, censorship-resistant public deliberation. Everything is released under MPL 2.0. Everything happens in public at [github.com/dds-wg](https://github.com/dds-wg).
 
 The project is designed to be interoperable and modular. We actively try to accommodate the diverse use-cases of individuals and teams, and that flexibility is what makes it flourish. When conflicts arise between competing needs, however, decisions must be made that preserve consistency and the project's core objectives.
 
