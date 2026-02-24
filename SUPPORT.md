@@ -2,13 +2,11 @@
 
 ## Where to Ask Questions
 
-### GitHub Discussions
+### Open Calls
 
-[GitHub Discussions](https://github.com/dds-wg/dds/discussions)
+TBD
 
-Use Discussions for questions, ideas, proposals, and general conversation about DDS. This is the primary community space.
-
-### Discord
+### Discord / Matrix
 
 [TBD, invite link]
 
