@@ -1,14 +1,14 @@
 # Contributing to DDS
 
-DDS is early-stage and moving fast. All kinds of contributions are welcome — whether you care about decentralized deliberation, open protocols, or building things that matter. You don't need permission to start.
+DDS is early-stage and moving fast. All kinds of contributions are welcome, whether you care about decentralized deliberation, open protocols, or building things that matter. You don't need permission to start.
 
 ## Principles
 
-- **Lower barriers, not raise them.** If the process confuses you, that's our bug — file an issue.
+- **Lower barriers, not raise them.** If the process confuses you, that's our bug. File an issue.
 - **Favor progress over perfection.** We'd rather iterate on something real than debate something theoretical. Protocol changes get careful review; everything else moves fast.
 - **No CLA, no copyright assignment.** You own your work. By contributing, you agree to license it under the project's license (BSD+Patent for code, CC-BY-4.0 for docs/specs).
 - **One problem per issue.** Keep issues focused. If you have two bugs, file two issues.
-- **Bias toward doing.** Issues, proposals, and PRs are all welcome — whatever gets the conversation started. For protocol changes, an issue first helps align before investing in implementation.
+- **Bias toward doing.** Issues, proposals, and PRs are all welcome, whatever gets the conversation started. For protocol changes, an issue first helps align before investing in implementation.
 
 ## How to Contribute
 
@@ -27,7 +27,7 @@ Here is the overall flow:
 3. Clone your fork locally.
 4. Add the upstream remote (one-time setup).
 5. Create a feature branch (never push directly to `main`).
-6. Do your work — commit and push to your feature branch.
+6. Do your work: commit and push to your feature branch.
 7. Open a **draft** pull request from your branch to upstream `main`.
 8. Before each work session, sync your fork's `main` from upstream and rebase your feature branch.
 
@@ -42,8 +42,8 @@ Follow the [Git and GitHub configuration guide](https://github.com/nicobao/perso
 Key settings:
 
 - **Commit signing:** Configure a GPG or SSH signing key following the [commit verification guide](https://github.com/nicobao/personal-notebook/blob/main/002_git_github_config.md#gpg-key-and-commit-verification), then [set your `.gitconfig` to always sign](https://github.com/nicobao/setup/blob/master/.gitconfig#L4-L7). See [Signed Commits](#signed-commits) below for why this is required.
-- **Pull = rebase:** Configure `pull` to rebase by default instead of merge — we never do merge commits. See [example](https://github.com/nicobao/setup/blob/master/.gitconfig#L25-L26).
-- **IMPORTANT — configure your editor for rebase/merge/conflicts:**
+- **Pull = rebase:** Configure `pull` to rebase by default instead of merge (we never do merge commits). See [example](https://github.com/nicobao/setup/blob/master/.gitconfig#L25-L26).
+- **IMPORTANT: configure your editor for rebase/merge/conflicts:**
   - [Neovim example](https://github.com/nicobao/setup/blob/master/.gitconfig#L9-L15)
   - [VS Code example](https://code.visualstudio.com/updates/v1_70#_3way-merge-editor-improvements)
 
@@ -106,7 +106,7 @@ After syncing `main`, rebase your feature branch onto it. This keeps your branch
 git checkout your-username/short-description
 
 # Make sure all local changes are committed before rebasing.
-# Do NOT stash uncommitted changes — commit them first to avoid
+# Do NOT stash uncommitted changes. Commit them first to avoid
 # conflicts when unstashing after the rebase.
 
 git rebase -i origin/main
@@ -118,11 +118,11 @@ Your editor will open showing your commits. To keep a clean history, mark all co
 # If there are no conflicts, you will see "Successfully rebased...".
 # If there ARE conflicts, resolve them with this loop:
 
-git mergetool          # opens your configured editor — resolve, save, quit
+git mergetool          # opens your configured editor: resolve, save, quit
 git rebase --continue  # if more conflicts remain, repeat; otherwise done
 ```
 
-After a successful rebase, force-push to your fork. A regular `git push` will fail because you rewrote history. Do NOT pull — force-push instead:
+After a successful rebase, force-push to your fork. A regular `git push` will fail because you rewrote history. Do NOT pull. Force-push instead:
 
 ```bash
 git push --force-with-lease
@@ -146,9 +146,9 @@ Add your full name and email to the `AUTHORS` file in the repository root when m
 
 ## Roles
 
-- **Contributor** — anyone who participates. File an issue, you're a contributor.
-- **Maintainer** — earns commit rights through sustained quality contributions. Reviews and merges pull requests.
-- **BDFL** — sets the overall vision and project goals; has final authority. Appoints Maintainers, breaks deadlocks.
+- **Contributor:** anyone who participates. File an issue, you're a contributor.
+- **Maintainer:** earns commit rights through sustained quality contributions. Reviews and merges pull requests.
+- **BDFL:** sets the overall vision and project goals; has final authority. Appoints Maintainers, breaks deadlocks.
 
 See [GOVERNANCE.md](GOVERNANCE.md) for the full governance model.
 

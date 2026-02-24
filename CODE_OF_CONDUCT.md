@@ -32,7 +32,7 @@ Community leaders will take appropriate and fair corrective action in response t
 
 ## Scope
 
-This Code of Conduct applies within all project spaces — GitHub repos, issues, pull requests, discussions, Discord, events, and any other space where you represent DDS. It also applies when an individual is officially representing the project in public spaces.
+This Code of Conduct applies within all project spaces (GitHub repos, issues, pull requests, discussions, Discord, events, and any other space where you represent DDS). It also applies when an individual is officially representing the project in public spaces.
 
 ## Enforcement
 

@@ -10,13 +10,13 @@ Use Discussions for questions, ideas, proposals, and general conversation about 
 
 ### Discord
 
-[TBD — invite link]
+[TBD, invite link]
 
 Real-time chat for quick questions and coordination. We keep it low-volume and high-signal.
 
 ### GitHub Issues
 
-Use Issues for **bug reports and feature requests only** — not for questions or discussion. One problem per issue.
+Use Issues for **bug reports and feature requests only**, not for questions or discussion. One problem per issue.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to file good issues and submit PRs.
 

@@ -4,7 +4,7 @@
 
 The DDS Project is an open source protocol for secure, censorship-resistant public deliberation. Software is released under BSD-2-Clause-Patent; specifications and documentation under CC-BY-4.0. Everything happens in public at [github.com/dds-wg](https://github.com/dds-wg).
 
-The project is designed to be interoperable and modular. We actively try to accommodate the diverse use-cases of individuals and teams — that flexibility is what makes it flourish. When conflicts arise between competing needs, however, decisions must be made that preserve consistency and the project's core objectives.
+The project is designed to be interoperable and modular. We actively try to accommodate the diverse use-cases of individuals and teams, and that flexibility is what makes it flourish. When conflicts arise between competing needs, however, decisions must be made that preserve consistency and the project's core objectives.
 
 ## Roles
 
@@ -14,7 +14,7 @@ Anyone who opens an issue or submits a pull request. No approval needed. Influen
 
 ### Maintainer
 
-A Contributor who has earned commit rights by demonstrating sustained, quality contributions and a willingness to help others — not just advance their own interests. Maintainers review and merge pull requests. The BDFL appoints Maintainers; a Maintainer inactive for a year may be removed after being given a chance to return.
+A Contributor who has earned commit rights by demonstrating sustained, quality contributions and a willingness to help others, not just advance their own interests. Maintainers review and merge pull requests. The BDFL appoints Maintainers; a Maintainer inactive for a year may be removed after being given a chance to return.
 
 ### BDFL
 

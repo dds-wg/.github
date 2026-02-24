@@ -4,8 +4,8 @@ Planning document for building the DDS contributor community. Goal: a small, hig
 
 ## Channels
 
-- **GitHub** (primary) — Issues, PRs, Discussions. This is where the work happens.
-- **Discord** (secondary) — Real-time chat for coordination. Low-volume, high-signal. Not a support forum.
+- **GitHub** (primary): Issues, PRs, Discussions. This is where the work happens.
+- **Discord** (secondary): Real-time chat for coordination. Low-volume, high-signal. Not a support forum.
 
 ## Growth Phases
 
@@ -41,10 +41,10 @@ Build structure as the community grows.
 
 ## Target Communities
 
-- **AT Protocol developers** — building on the same foundation, natural allies
-- **Civic tech** — [Polis](https://pol.is/), [Decidim](https://decidim.org/), [Loomio](https://www.loomio.com/) communities — people who already care about deliberation
-- **DAO tooling** — Snapshot, Tally, Aragon ecosystems — on-chain governance practitioners
-- **Decentralized governance researchers** — academics, think tanks, governance nerds
+- **AT Protocol developers:** building on the same foundation, natural allies
+- **Civic tech:** [Polis](https://pol.is/), [Decidim](https://decidim.org/), [Loomio](https://www.loomio.com/) communities, people who already care about deliberation
+- **DAO tooling:** Snapshot, Tally, Aragon ecosystems, on-chain governance practitioners
+- **Decentralized governance researchers:** academics, think tanks, governance nerds
 
 ## Anti-Patterns
 
