@@ -1,8 +1,8 @@
 # Decentralized Deliberation Standard
 
-**Public deliberation depends on platforms that can disappear, censor, or shape outcomes.** Algorithms influence consensus, services shut down, and collective decisions vanish with them. Communities deserve infrastructure they control.
+**Deliberation tools are siloed.** Results from one tool can't feed into another without custom integration. Users must trust the platform with no way to verify results. When a provider disappears, communities lose their data and history.
 
-**DDS is a vendor-neutral protocol for secure, censorship-resistant public deliberation.** It separates the *process* of deliberation from the platforms that host it, so communities own their discussions, their data, and their outcomes. Built on [AT Protocol](https://atproto.com/) for identity and social infrastructure, with [Arweave](https://arweave.org/)/[Filecoin](https://filecoin.io/)/[Logos](https://logos.co/) for permanent archival and [Ethereum](https://ethereum.org/) for on-chain verification.
+**DDS is an open protocol for sovereign, verifiable, interoperable, and resilient deliberation.** It separates the *process* of deliberation from the platforms that host it, so communities own their discussions, their data, and their outcomes. Built on [AT Protocol](https://atproto.com/) for identity and social infrastructure, with [Arweave](https://arweave.org/)/[Filecoin](https://filecoin.io/)/[Logos](https://logos.co/) for permanent archival and [Ethereum](https://ethereum.org/) for on-chain verification.
 
 ## How It Works
 
