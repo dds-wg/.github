@@ -1,6 +1,9 @@
 # Contributing to DDS
 
-DDS is early-stage and moving fast. All kinds of contributions are welcome, whether you care about decentralized deliberation, open protocols, or building things that matter. You don't need permission to start.
+DDS is early-stage and moving fast. All kinds of contributions are welcome, whether you care about decentralized deliberation, open stacks, or building things that matter. You don't need permission to start.
+
+DDS is maintained in the [DDS GitHub organization](https://github.com/dds-wg) and
+developed through the [W3C DDS Community Group](https://www.w3.org/community/dds/).
 
 ## Principles
 
@@ -9,6 +12,11 @@ DDS is early-stage and moving fast. All kinds of contributions are welcome, whet
 - **Bias toward doing.** Issues, proposals, and PRs are all welcome, whatever gets the conversation started. For protocol changes, an issue first helps align before investing in implementation.
 
 ## How to Contribute
+
+Specification contributions should follow the W3C DDS Community Group process
+and are governed by the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/).
+Software contributions are licensed under MPL-2.0 unless another licence is
+explicitly stated. See the [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 ### Open an Issue
 
@@ -147,13 +155,17 @@ Add your full name and email to the `AUTHORS` file in the repository root when m
 
 - **Contributor:** anyone who participates. File an issue, you're a contributor.
 - **Maintainer:** earns commit rights through sustained quality contributions. Reviews and merges pull requests.
-- **BDFL:** sets the overall vision and project goals; has final authority. Appoints Maintainers, breaks deadlocks.
+- **W3C DDS Community Group chairs:** coordinate the W3C Community Group process, report publication, and W3C process alignment.
+- **BDFL:** sets the GitHub project's overall vision and project goals; has final authority for GitHub project decisions outside the W3C Community Group process. Appoints Maintainers, breaks deadlocks.
 
 See [GOVERNANCE.md](GOVERNANCE.md) for the full governance model.
 
-## License
+## Licensing
 
-MPL 2.0 (SPDX: `MPL-2.0`)
+DDS is not covered by a single licence. Specification work follows the W3C
+Community Group contribution process, and software is licensed under MPL-2.0
+unless another licence is explicitly stated. See the
+[`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 ## Standards
 

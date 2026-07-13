@@ -1,8 +1,11 @@
-# Decentralized Deliberation Standard
+# Decentralized Deliberation Stack
 
 **Deliberation tools are siloed.** Results from one tool can't feed into another without custom integration. Users must trust the platform with no way to verify results. When a provider disappears, communities lose their data and history.
 
-**DDS is an open protocol for sovereign, verifiable, interoperable, and resilient deliberation.** It separates the *process* of deliberation from the platforms that host it, so communities own their discussions, their data, and their outcomes. Built on [AT Protocol](https://atproto.com/) for identity and social infrastructure, with [Arweave](https://arweave.org/)/[Filecoin](https://filecoin.io/)/[Logos](https://logos.co/) for permanent archival and [Ethereum](https://ethereum.org/) for on-chain verification.
+**DDS is an open stack for sovereign, verifiable, interoperable, and resilient deliberation.** It separates the *process* of deliberation from the platforms that host it, so communities own their discussions, their data, and their outcomes. Built on [AT Protocol](https://atproto.com/) for identity and social infrastructure, with [Arweave](https://arweave.org/)/[Filecoin](https://filecoin.io/)/[Logos](https://logos.co/) for permanent archival and [Ethereum](https://ethereum.org/) for on-chain verification.
+
+DDS is maintained in the [DDS GitHub organization](https://github.com/dds-wg) and
+developed through the [W3C DDS Community Group](https://www.w3.org/community/dds/).
 
 ## How It Works
 
@@ -25,7 +28,7 @@ No single platform controls the process. Any conforming tool can participate.
 
 | Repo | Description | Status |
 |------|-------------|--------|
-| [`dds`](https://github.com/dds-wg/dds) | Monorepo: spec, website, blog, exploration | Coming soon |
+| [`dds`](https://github.com/dds-wg/dds) | Monorepo: spec, website, blog, exploration | Active |
 | [`.github`](https://github.com/dds-wg/.github) | Community health files, governance, strategy | You are here |
 
 ## Get Involved
@@ -36,9 +39,12 @@ We're early-stage and looking for people who care about deliberation infrastruct
 - **[Governance](https://github.com/dds-wg/.github/blob/main/GOVERNANCE.md):** How decisions are made
 - **[Code of Conduct](https://github.com/dds-wg/.github/blob/main/CODE_OF_CONDUCT.md):** Community standards
 
-## License
+## Licensing
 
-MPL 2.0 (`MPL-2.0`)
+DDS is not covered by a single licence. Specification work follows the W3C
+Community Group contribution process, and software is licensed under MPL-2.0
+unless another licence is explicitly stated. See the
+[`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 ---
 
