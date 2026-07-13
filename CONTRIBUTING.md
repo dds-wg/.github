@@ -15,8 +15,8 @@ developed through the [W3C DDS Community Group](https://www.w3.org/community/dds
 
 Specification contributions should follow the W3C DDS Community Group process
 and are governed by the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/).
-Software contributions are licensed under MPL-2.0 unless another licence is
-explicitly stated. See the [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
+Website and proof-of-concept software contributions are licensed under MPL-2.0
+unless another licence is explicitly stated. See the [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 ### Open an Issue
 
@@ -163,8 +163,8 @@ See [GOVERNANCE.md](GOVERNANCE.md) for the full governance model.
 ## Licensing
 
 DDS is not covered by a single licence. Specification work follows the W3C
-Community Group contribution process, and software is licensed under MPL-2.0
-unless another licence is explicitly stated. See the
+Community Group contribution process. The website and proof-of-concept software
+are licensed under MPL-2.0 unless another licence is explicitly stated. See the
 [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 ## Standards

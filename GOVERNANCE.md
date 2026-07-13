@@ -4,7 +4,7 @@
 
 The DDS Project is an open stack for sovereign, verifiable, interoperable, and resilient deliberation. Work happens in public in the [DDS GitHub organization](https://github.com/dds-wg) and through the [W3C DDS Community Group](https://www.w3.org/community/dds/).
 
-DDS is not covered by a single licence. Specification work follows the W3C Community Group contribution process, and software is licensed under MPL-2.0 unless another licence is explicitly stated. See the [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
+DDS is not covered by a single licence. Specification work follows the W3C Community Group contribution process. The website and proof-of-concept software are licensed under MPL-2.0 unless another licence is explicitly stated. See the [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 The project is designed to be interoperable and modular. We actively try to accommodate the diverse use-cases of individuals and teams, and that flexibility is what makes it flourish. When conflicts arise between competing needs, however, decisions must be made that preserve consistency and the project's core objectives.
 

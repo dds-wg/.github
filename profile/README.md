@@ -42,8 +42,8 @@ We're early-stage and looking for people who care about deliberation infrastruct
 ## Licensing
 
 DDS is not covered by a single licence. Specification work follows the W3C
-Community Group contribution process, and software is licensed under MPL-2.0
-unless another licence is explicitly stated. See the
+Community Group contribution process. The website and proof-of-concept software
+are licensed under MPL-2.0 unless another licence is explicitly stated. See the
 [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 ---
