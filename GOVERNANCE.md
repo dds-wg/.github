@@ -8,7 +8,7 @@ DDS is not covered by a single licence. Specification work follows the W3C Commu
 
 The project is designed to be interoperable and modular. We actively try to accommodate the diverse use-cases of individuals and teams, and that flexibility is what makes it flourish. When conflicts arise between competing needs, however, decisions must be made that preserve consistency and the project's core objectives.
 
-This document is the project's public operational agreement for GitHub governance. It does not replace the [W3C Community and Business Group Process](https://www.w3.org/community/about/process/), the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/), the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/), the [W3C Community Final Specification Agreement](https://www.w3.org/community/about/process/final/), or applicable [W3C report requirements](https://www.w3.org/community/reports/reqs/).
+This document is the project's public operational agreement for governance, GitHub access, and official project tool administration. It does not replace the [W3C Community and Business Group Process](https://www.w3.org/community/about/process/), the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/), the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/), the [W3C Community Final Specification Agreement](https://www.w3.org/community/about/process/final/), or applicable [W3C report requirements](https://www.w3.org/community/reports/reqs/).
 
 ## Governance Philosophy
 
@@ -36,23 +36,31 @@ Maintainers manage repository operations: triaging issues, reviewing and merging
 
 The W3C DDS Community Group chairs coordinate and facilitate the W3C Community Group process, including group participation, specification consensus, report publication, and W3C process alignment. The Chairs are responsible for ensuring the group follows W3C requirements and this public operational agreement. They are the primary contacts for W3C Community Group process matters.
 
-Chairs are co-owners of the DDS GitHub organization associated with the W3C DDS Community Group. Together with the BDFL, they may appoint Maintainers. Only Chairs and the BDFL may hold organization owner access or repository admin access.
+Chairs are co-owners of the DDS GitHub organization associated with the W3C DDS Community Group. Chairs and the BDFL may appoint Maintainers.
 
 Current chairs:
 
 - **Simone Vagnoni** ([@Stocastico96](https://github.com/Stocastico96))
-- **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao)), Chair by default as current BDFL
+- **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao)), current BDFL
 - **Lee DeSota** ([@salteelee](https://github.com/salteelee))
 
 ### BDFL
 
-Initiated the W3C DDS Community Group and set the project's initial vision and goals. Responsible for the GitHub project's overall vision, project goals, and continuity. The BDFL is automatically one of the Chairs, subject to mandatory W3C requirements. The BDFL role is defined by this project's operational agreement, not by the W3C Community Group Process. The BDFL may make final calls on GitHub project decisions outside the W3C Community Group process when broad consensus cannot be reached, as facilitated by the Chairs. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives.
+Initiated the W3C DDS Community Group and set the project's initial vision and goals. Responsible for the GitHub project's overall vision, project goals, and continuity. The BDFL MUST serve as a W3C DDS Community Group Chair to the extent allowed by mandatory W3C requirements and W3C process. This is an operational expectation, not a condition of the BDFL role. If W3C rules or process prevent the BDFL from being a W3C Chair, the BDFL role remains unchanged. The BDFL role is defined by this project's operational agreement, not by the W3C Community Group Process. The BDFL may make final calls on GitHub project decisions outside the W3C Community Group process when broad consensus cannot be reached, as facilitated by the Chairs. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives.
 
 The BDFL cannot override the W3C Community Group Process, the W3C Code of Conduct, the W3C Community Contributor License Agreement, the W3C Community Final Specification Agreement, applicable W3C report requirements, or this operational agreement. For specification work, Community Group reports, and publication decisions, the BDFL defers to the W3C DDS Community Group process and applicable W3C requirements. BDFL decisions should be documented publicly with their rationale. The BDFL may appoint their own successor. If unable, the Chairs facilitate a public succession process. Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
 
 The BDFL role is a founding governance role of the project.
 
 Currently: **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao))
+
+## Official Project Tools
+
+Official DDS project tools include GitHub, the DDS Matrix room, the DDS W3C Community Group calendar, and any future official coordination or publication tools.
+
+DDS should use neutral W3C tools where practical. When W3C tools do not meet the project's needs, DDS may use external tools to maximize reach, usability, and effective participation, including current technologies that help the Community Group work well. External tools must remain neutral project infrastructure. The access rules below are the minimum safeguard for that neutrality.
+
+Only the BDFL and Chairs may hold organization owner access, repository admin access, or administrative access to official DDS project tools. Others may be organization members or tool members without admin rights. The BDFL and every Chair MUST have administrative access to official DDS project tools. When someone holds neither the BDFL role nor a Chair role, their administrative access to those tools must be removed. If a tool requires admins to remove their own admin status, the outgoing BDFL or Chair must remove themselves.
 
 ## Decision Making
 

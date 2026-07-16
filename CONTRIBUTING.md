@@ -156,7 +156,7 @@ Add your full name and email to the `AUTHORS` file in the repository root when m
 - **Contributor:** anyone who participates. File an issue, you're a contributor. Contributors remain external by default until they earn repository access through trust and sustained quality contributions.
 - **Maintainer:** earns repository write or maintain access through sustained quality contributions. Maintainers may be DDS GitHub organization members or may have access only to specific repositories. Joining the W3C DDS Community Group on w3.org does not automatically make someone a Maintainer.
 - **W3C DDS Community Group chairs:** coordinate and facilitate the W3C Community Group process, specification consensus, report publication, and W3C process alignment. Chairs are co-owners of the DDS GitHub organization and, together with the BDFL, may appoint Maintainers.
-- **BDFL:** initiated the W3C DDS Community Group and set the project's initial vision and goals. Breaks deadlocks when broad consensus cannot be reached, may oppose proposals that conflict with the project's core objectives, and defers to the W3C Community Group process for specification work, Community Group reports, and publication decisions.
+- **BDFL:** initiated the W3C DDS Community Group and set the project's initial vision and goals. Administers official DDS project tools together with the Chairs, breaks deadlocks when broad consensus cannot be reached, may oppose proposals that conflict with the project's core objectives, and defers to the W3C Community Group process for specification work, Community Group reports, and publication decisions.
 
 See [GOVERNANCE.md](GOVERNANCE.md) for the full governance model.
 
