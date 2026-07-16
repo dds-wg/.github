@@ -12,7 +12,7 @@ This document is the project's public operational agreement for governance, GitH
 
 ## Governance Philosophy
 
-DDS is both a project and a Community Group. It stewards the Decentralized Deliberation Stack, whose scope is intentionally broad and meta: it tries to connect protocols, products, and communities across different deliberation use-cases. That openness is important, but it also means the work needs a clear and coherent vision to hold the pieces together.
+DDS is the Decentralized Deliberation Stack. The W3C DDS Community Group stewards DDS, whose scope is intentionally broad and meta: it tries to connect protocols, products, and communities across different deliberation use-cases. That openness is important, but it also means the work needs a clear and coherent vision to hold the pieces together.
 
 When use-cases conflict, we try first to make room for all of them rather than choosing one too early. The goal is to find shared abstractions, sometimes surprising ones, that let different teams benefit from the stack to the greatest extent possible, including niche or emerging use-cases. This flexibility has a limit: accommodating a use-case should not make the project incoherent or prevent others from building on the shared foundation.
 
