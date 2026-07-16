@@ -36,7 +36,9 @@ To appoint a Maintainer with broad project access, DDS GitHub organization membe
 
 For narrowly scoped Maintainer access, such as a specific repository, documentation area, issue triage role, or non-sensitive tool role, approval by one Chair or the BDFL is enough. The appointment must be documented publicly in a GitHub issue or on the public mailing list and may be reviewed and vetoed by the Chairs or the BDFL within one month.
 
-A Maintainer inactive for a year may be removed after being given a chance to return.
+A Maintainer may be removed for inactivity, loss of trust, misuse of project access, repeated failure to perform their maintenance responsibilities, violation of this operational agreement, or conduct that harms the project or Community Group. Removal should be documented publicly in a GitHub issue or on the public mailing list unless privacy, safety, or security concerns require a more limited process.
+
+For narrowly scoped Maintainer access, one Chair or the BDFL may remove access, subject to review by the Chairs and BDFL for one month. For broad project access, DDS GitHub organization membership, publishing access, financial-tool access, or access to official public-facing tools, all Chairs and the BDFL should be notified, and removal proceeds unless a Chair or the BDFL raises a reasoned objection within one month. Urgent access removal may happen immediately when needed to protect the project, participants, funds, credentials, or infrastructure, but must be reviewed afterward.
 
 ### W3C DDS Community Group Chairs
 
