@@ -24,27 +24,31 @@ The BDFL and Chairs are expected to act as facilitators for the Community Group.
 
 ### Contributor
 
-Anyone who opens an issue or submits a pull request. No approval needed. Influence comes from the work, not from titles.
+Anyone who opens an issue or submits a pull request. No approval needed. Influence comes from the work, not from titles. Contributors remain external by default until they have earned repository access through trust, sustained quality contributions, and willingness to help others.
 
 ### Maintainer
 
-A Contributor who has earned commit rights by demonstrating sustained, quality contributions and a willingness to help others, not just advance their own interests. Maintainers manage repository operations: triaging issues, reviewing and merging pull requests, maintaining CI, keeping documentation usable, and stewarding website and proof-of-concept work. Maintainer authority does not by itself determine W3C Community Group consensus, Community Group report publication, or W3C process questions. The BDFL appoints Maintainers; a Maintainer inactive for a year may be removed after being given a chance to return.
+A Contributor who has earned write or maintain access to one or more DDS GitHub repositories by demonstrating sustained, quality contributions and a willingness to help others, not just advance their own interests. Maintainers may be members of the DDS GitHub organization or may have access only to specific repositories. Joining the W3C DDS Community Group on w3.org does not automatically make someone a Maintainer.
+
+Maintainers manage repository operations: triaging issues, reviewing and merging pull requests, maintaining CI, keeping documentation usable, and stewarding website and proof-of-concept work. Maintainer authority does not by itself determine W3C Community Group consensus, Community Group report publication, or W3C process questions. Chairs and the BDFL appoint Maintainers; a Maintainer inactive for a year may be removed after being given a chance to return.
 
 ### W3C DDS Community Group Chairs
 
 The W3C DDS Community Group chairs coordinate and facilitate the W3C Community Group process, including group participation, specification consensus, report publication, and W3C process alignment. The Chairs are responsible for ensuring the group follows W3C requirements and this public operational agreement. They are the primary contacts for W3C Community Group process matters.
 
+Chairs are co-owners of the DDS GitHub organization associated with the W3C DDS Community Group. Together with the BDFL, they may appoint Maintainers. Only Chairs and the BDFL may hold organization owner access or repository admin access.
+
 Current chairs:
 
-- **Simone Vagnoni**
-- **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao))
-- **Lee DeSota**
+- **Simone Vagnoni** ([@Stocastico96](https://github.com/Stocastico96))
+- **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao)), Chair by default as current BDFL
+- **Lee DeSota** ([@salteelee](https://github.com/salteelee))
 
 ### BDFL
 
-Initiated the W3C DDS Community Group and set the project's initial vision and goals. Responsible for the GitHub project's overall vision, project goals, and continuity. The BDFL role is defined by this project's operational agreement, not by the W3C Community Group Process. The BDFL may make final calls on GitHub project decisions outside the W3C Community Group process when broad consensus cannot be reached, as facilitated by the Chairs. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives.
+Initiated the W3C DDS Community Group and set the project's initial vision and goals. Responsible for the GitHub project's overall vision, project goals, and continuity. The BDFL is automatically one of the Chairs, subject to mandatory W3C requirements. The BDFL role is defined by this project's operational agreement, not by the W3C Community Group Process. The BDFL may make final calls on GitHub project decisions outside the W3C Community Group process when broad consensus cannot be reached, as facilitated by the Chairs. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives.
 
-The BDFL cannot override the W3C Community Group Process, the W3C Code of Conduct, the W3C Community Contributor License Agreement, the W3C Community Final Specification Agreement, applicable W3C report requirements, or this operational agreement. For specification work, Community Group reports, and publication decisions, the BDFL defers to the W3C DDS Community Group process and applicable W3C requirements. BDFL decisions should be documented publicly with their rationale. The BDFL can appoint their own successor; if unable, Maintainers decide.
+The BDFL cannot override the W3C Community Group Process, the W3C Code of Conduct, the W3C Community Contributor License Agreement, the W3C Community Final Specification Agreement, applicable W3C report requirements, or this operational agreement. For specification work, Community Group reports, and publication decisions, the BDFL defers to the W3C DDS Community Group process and applicable W3C requirements. BDFL decisions should be documented publicly with their rationale. The BDFL may appoint their own successor. If unable, the Chairs facilitate a public succession process. Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
 
 The BDFL role is a founding governance role of the project.
 
