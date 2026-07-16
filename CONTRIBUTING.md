@@ -154,9 +154,9 @@ Add your full name and email to the `AUTHORS` file in the repository root when m
 ## Roles
 
 - **Contributor:** anyone who participates. File an issue, you're a contributor.
-- **Maintainer:** earns commit rights through sustained quality contributions. Reviews and merges pull requests.
-- **W3C DDS Community Group chairs:** coordinate the W3C Community Group process, report publication, and W3C process alignment.
-- **BDFL:** sets the GitHub project's overall vision and project goals; has final authority for GitHub project decisions outside the W3C Community Group process. Appoints Maintainers, breaks deadlocks.
+- **Maintainer:** earns commit rights through sustained quality contributions. Manages repository operations, reviews pull requests, and merges routine changes.
+- **W3C DDS Community Group chairs:** coordinate and facilitate the W3C Community Group process, specification consensus, report publication, and W3C process alignment.
+- **BDFL:** initiated the W3C DDS Community Group and set the project's initial vision and goals. Breaks deadlocks when broad consensus cannot be reached, may oppose proposals that conflict with the project's core objectives, and defers to the W3C Community Group process for specification work, Community Group reports, and publication decisions.
 
 See [GOVERNANCE.md](GOVERNANCE.md) for the full governance model.
 
