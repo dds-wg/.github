@@ -98,7 +98,7 @@ The Community Group may create a shared funding tool to support DDS Community Gr
 
 Consensus comes first. We prefer rough agreement reached through open discussion over top-down decisions. Decisions should be discussed and documented in public GitHub issues, pull requests, the public mailing list, or other official public project tools as appropriate. Consensus means broad agreement among active participants, not only agreement among the BDFL, Chairs, or Maintainers.
 
-As described in [Governance Philosophy](#governance-philosophy), DDS should remain open to a plurality of contributors, communities, and use-cases. Decision-making should be welcoming and benevolent toward new participants, and should try to accommodate specific use-cases where doing so does not make the project incoherent or undermine its core objectives.
+As described in [Governance Philosophy](#governance-philosophy), DDS should remain open to a plurality of contributors, communities, and use-cases. Decision-making should be welcoming and benevolent toward new participants, should respond quickly to new contributors so the community can grow, and should try to accommodate specific use-cases where doing so does not make the project incoherent or undermine its core objectives.
 
 Default is lazy consensus for routine operational and editorial work: if nobody objects, it passes. Maintainers may act within their scoped responsibilities and access, including triage, review, pull-request merges, documentation, CI, website or proof-of-concept work, and official tool operations, when the change is routine and does not affect governance, funding, branding, official tool administration, participant rights, W3C process, Community Group reports, or publication decisions.
 
