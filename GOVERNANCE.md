@@ -98,6 +98,8 @@ The Community Group may create a shared funding tool to support DDS Community Gr
 
 Consensus comes first. We prefer rough agreement reached through open discussion over top-down decisions. Decisions should be discussed and documented in public GitHub issues, pull requests, the public mailing list, or other official public project tools as appropriate. Consensus means broad agreement among active participants, not only agreement among the BDFL, Chairs, or Maintainers.
 
+As described in [Governance Philosophy](#governance-philosophy), DDS should remain open to a plurality of contributors, communities, and use-cases. Decision-making should be welcoming and benevolent toward new participants, and should try to accommodate specific use-cases where doing so does not make the project incoherent or undermine its core objectives.
+
 Default is lazy consensus for routine operational and editorial work: if nobody objects, it passes. Maintainers may act within their scoped responsibilities and access, including triage, review, pull-request merges, documentation, CI, website or proof-of-concept work, and official tool operations, when the change is routine and does not affect governance, funding, branding, official tool administration, participant rights, W3C process, Community Group reports, or publication decisions.
 
 For specification work, Community Group reports, and publication decisions, the project follows the W3C DDS Community Group process and applicable W3C requirements. Chairs coordinate and facilitate that process, help surface disagreement, document decisions, and help determine whether there is sufficient consensus to proceed.
@@ -110,7 +112,7 @@ Submit a pull request. Maintainers review changes for repository impact. The BDF
 
 Changes to this document should be adopted by broad consensus, facilitated by the Chairs. If broad consensus cannot be reached, the current text remains in effect unless a change is required to comply with mandatory W3C Community Group requirements.
 
-The BDFL role is a founding governance role of the project. It cannot be removed, replaced, or materially redefined without the consent of the current BDFL. Any such change must be proposed explicitly, discussed publicly, and supported by broad consensus among active participants and approval from the Chairs. This does not prevent BDFL succession under [BDFL Succession](#bdfl-succession).
+The BDFL role is a founding governance role of the project. It cannot be removed, replaced, or materially redefined without the consent of the current BDFL. Any such change must be proposed explicitly, discussed publicly, supported by broad consensus among active participants, approved by the Chairs, and ultimately approved by the current BDFL. This does not prevent BDFL succession under [BDFL Succession](#bdfl-succession).
 
 No change to this document may conflict with mandatory W3C Community Group requirements, including the W3C Community and Business Group Process, the W3C Code of Conduct, the W3C Community Contributor License Agreement, the W3C Community Final Specification Agreement, or applicable W3C report requirements.
 
