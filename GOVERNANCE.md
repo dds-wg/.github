@@ -42,6 +42,10 @@ A Maintainer inactive for a year may be removed after being given a chance to re
 
 The W3C DDS Community Group chairs coordinate and facilitate the W3C Community Group process, including group participation, specification consensus, report publication, and W3C process alignment. The Chairs are responsible for ensuring the group follows W3C requirements and this public operational agreement. They are the primary contacts for W3C Community Group process matters.
 
+Chairs may contribute substantive views, but when acting as Chairs they are expected to facilitate the Community Group process rather than own consensus. They should help participants understand the process, surface disagreement, keep discussions focused, encourage broad participation, document decisions, and ensure that meetings, agendas, minutes, and material process changes are handled publicly as required by W3C process.
+
+A Chair who repeatedly fails to facilitate fairly, blocks participation without process, misrepresents group consensus, fails to document material decisions, or uses Chair status to advance personal, organizational, financial, or factional interests may be challenged by participants. Concerns should first be raised publicly with the Chairs and BDFL where appropriate. If unresolved, or if direct public discussion would be unsafe or inappropriate, Chairs or participants may escalate the issue through the applicable W3C Community Group process, including the Community Development Lead or [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) process where relevant. Persistent failure to meet these expectations is grounds to seek removal of Chair status under applicable W3C process and this operational agreement.
+
 Chairs are co-owners of the DDS GitHub organization associated with the W3C DDS Community Group. Chairs review Maintainer appointments as described above.
 
 Current chairs:
