@@ -68,7 +68,7 @@ Currently: **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao))
 
 ## Official Project Tools
 
-Official DDS project tools include GitHub, the DDS Matrix room, the DDS W3C Community Group calendar, and any future official coordination or publication tools.
+Official DDS project tools include the [DDS GitHub organization](https://github.com/dds-wg), the [DDS Matrix room](SUPPORT.md#group-chat), the [DDS W3C Community Group calendar](SUPPORT.md#open-calls), and any future official coordination or publication tools.
 
 DDS should use neutral W3C tools where they are available and fit the project's needs. When W3C tools are unavailable, outdated, missing important functionality, or would limit reach, usability, or effective participation, DDS may use external tools, including current technologies that help the Community Group work well. External tools must remain neutral project infrastructure. Where possible, they should use project-owned accounts, shared administrative access, public documentation, and exportable or migratable data. The access rules below are the minimum safeguard for that neutrality.
 
