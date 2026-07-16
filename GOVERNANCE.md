@@ -94,17 +94,17 @@ The Community Group may create a shared funding tool to support DDS Community Gr
 
 ## Decision Making
 
-Consensus comes first. We prefer rough agreement reached through open discussion over top-down decisions. Decisions happen in public on GitHub issues and pull requests. Consensus means broad agreement among active participants, not only agreement among Chairs or Maintainers.
+Consensus comes first. We prefer rough agreement reached through open discussion over top-down decisions. Decisions should be discussed and documented in public GitHub issues, pull requests, the public mailing list, or other official public project tools as appropriate. Consensus means broad agreement among active participants, not only agreement among the BDFL, Chairs, or Maintainers.
 
-Default is lazy consensus: if nobody objects, it passes. Maintainers can merge PRs they judge to be correct for routine repository, documentation, website, proof-of-concept, and editorial work.
+Default is lazy consensus for routine operational and editorial work: if nobody objects, it passes. Maintainers may act within their scoped responsibilities and access, including triage, review, pull-request merges, documentation, CI, website or proof-of-concept work, and official tool operations, when the change is routine and does not affect governance, funding, branding, official tool administration, participant rights, W3C process, Community Group reports, or publication decisions.
 
-For specification work, Community Group reports, and publication decisions, the project follows the W3C DDS Community Group process and applicable W3C requirements. Chairs coordinate and facilitate that process and help determine whether there is sufficient consensus to proceed.
+For specification work, Community Group reports, and publication decisions, the project follows the W3C DDS Community Group process and applicable W3C requirements. Chairs coordinate and facilitate that process, help surface disagreement, document decisions, and help determine whether there is sufficient consensus to proceed.
 
-If broad consensus cannot be reached after public discussion facilitated by the Chairs, the BDFL may make the final call. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives. If the decision affects specification content, Community Group reports, or publication, the decision must still comply with the W3C Community Group process and applicable W3C requirements. The BDFL should document the rationale publicly.
+If broad consensus cannot be reached on a project operational decision outside the W3C Community Group process after public discussion facilitated by the Chairs, the BDFL may make the final call. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives. If the decision affects specification content, Community Group reports, publication, or mandatory W3C requirements, the decision must still comply with the W3C Community Group process and applicable W3C requirements. The BDFL should document the rationale publicly.
 
 ## Changing This Document
 
-Submit a pull request. Maintainers review changes for repository impact. Chairs review changes that affect the W3C Community Group process, group participation, specification consensus, Community Group reports, publication, or this operational agreement.
+Submit a pull request. Maintainers review changes for repository impact. The BDFL and Chairs review changes that affect governance, official project tools, funding, branding, the W3C Community Group process, group participation, specification consensus, Community Group reports, publication, or this operational agreement.
 
 Changes to this document should be adopted by broad consensus, facilitated by the Chairs. If broad consensus cannot be reached, the current text remains in effect unless a change is required to comply with mandatory W3C Community Group requirements.
 
