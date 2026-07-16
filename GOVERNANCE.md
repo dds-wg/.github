@@ -58,9 +58,13 @@ Current chairs:
 
 ### BDFL
 
-Initiated the W3C DDS Community Group and set the project's initial vision and goals. Responsible for the project's overall vision, project goals, and continuity. The project expects the BDFL to serve as a W3C DDS Community Group Chair whenever permitted by mandatory W3C requirements and W3C process. This expectation does not define the BDFL role. If W3C rules or process prevent the BDFL from being a W3C Chair, the BDFL role remains unchanged. The BDFL role is defined by this project's operational agreement, not by the W3C Community Group Process. The BDFL may make final calls on project operational decisions outside the W3C Community Group process when broad consensus cannot be reached, as facilitated by the Chairs. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives.
+The BDFL initiated the W3C DDS Community Group, set the project's initial vision and goals, and is responsible for the project's overall vision, continuity, and coherence. The project expects the BDFL to serve as a W3C DDS Community Group Chair whenever W3C requirements and process allow it. That expectation supports continuity between project governance and Community Group facilitation, but it does not define the BDFL role. If W3C rules or process prevent the BDFL from serving as a Community Group Chair, the BDFL role remains unchanged.
 
-The BDFL cannot override the W3C Community Group Process, the W3C Code of Conduct, the W3C Community Contributor License Agreement, the W3C Community Final Specification Agreement, applicable W3C report requirements, or this operational agreement. For specification work, Community Group reports, and publication decisions, the BDFL defers to the W3C DDS Community Group process and applicable W3C requirements. BDFL decisions should be documented publicly with their rationale. The BDFL may appoint their own successor. If the BDFL is unable to appoint a successor, the Chairs facilitate a public succession process, and Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
+The BDFL role is defined by this project's operational agreement, not by the W3C Community Group Process. The BDFL cannot override the W3C Community Group Process, the W3C Code of Conduct, the W3C Community Contributor License Agreement, the W3C Community Final Specification Agreement, applicable W3C report requirements, or this operational agreement. For specification work, Community Group reports, and publication decisions, the BDFL defers to the W3C DDS Community Group process and applicable W3C requirements.
+
+The BDFL may make final calls on project operational decisions outside the W3C Community Group process when broad consensus cannot be reached, as facilitated by the Chairs. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives. BDFL decisions should be documented publicly with their rationale.
+
+The BDFL may appoint their own successor. If the BDFL is unable to appoint a successor, the Chairs facilitate a public succession process, and Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
 
 The BDFL role is a founding governance role of the project.
 
@@ -68,7 +72,9 @@ Currently: **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao))
 
 ## Official Project Tools
 
-Official DDS project tools include the [DDS GitHub organization](https://github.com/dds-wg), the [DDS Matrix room](SUPPORT.md#group-chat), the [DDS W3C Community Group calendar](SUPPORT.md#open-calls), and any future official coordination or publication tools.
+Official DDS project tools include, at minimum, the [DDS GitHub organization](https://github.com/dds-wg), the [DDS Matrix room](SUPPORT.md#group-chat), the [DDS W3C Community Group calendar](SUPPORT.md#open-calls), the [W3C-hosted public mailing list](SUPPORT.md#mailing-list), any shared funding tool, and any future official coordination, moderation, funding, or publication tools.
+
+The official DDS website, blog, and specification publication pipeline are official publication surfaces. While their domain, hosting, billing, or accounts are paid for or owned by the BDFL, the BDFL may remain their sole owner and administrator. If those assets move to shared project control, they become official DDS project tools subject to the access rules below.
 
 DDS should use neutral W3C tools where they are available and fit the project's needs. When W3C tools are unavailable, outdated, missing important functionality, or would limit reach, usability, or effective participation, DDS may use external tools, including current technologies that help the Community Group work well. External tools must remain neutral project infrastructure. Where possible, they should use project-owned accounts, shared administrative access, public documentation, and exportable or migratable data. The access rules below are the minimum safeguard for that neutrality.
 
