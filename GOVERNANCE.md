@@ -64,11 +64,13 @@ The BDFL role is defined by this project's operational agreement, not by the W3C
 
 The BDFL may make final calls on project operational decisions outside the W3C Community Group process when broad consensus cannot be reached, as facilitated by the Chairs. The BDFL may also oppose or reject proposals that would conflict with the project's core objectives. BDFL decisions should be documented publicly with their rationale.
 
-The BDFL may appoint their own successor. If the BDFL is unable to appoint a successor, the Chairs facilitate a public succession process, and Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
-
-The BDFL role is a founding governance role of the project.
+The BDFL role is a founding governance role of the project and has no default expiry.
 
 Currently: **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao))
+
+#### BDFL Succession
+
+The BDFL may appoint their own successor. If the BDFL has not appointed a successor and cannot be reached for one year despite reasonable public and private attempts, the Chairs facilitate a public succession process. Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
 
 ## Official Project Tools
 
@@ -108,7 +110,7 @@ Submit a pull request. Maintainers review changes for repository impact. The BDF
 
 Changes to this document should be adopted by broad consensus, facilitated by the Chairs. If broad consensus cannot be reached, the current text remains in effect unless a change is required to comply with mandatory W3C Community Group requirements.
 
-Ordinary changes to this document cannot remove or redefine the existence of the BDFL role or its distinction from Maintainers and W3C DDS Community Group Chairs.
+The BDFL role is a founding governance role of the project. It cannot be removed, replaced, or materially redefined without the consent of the current BDFL. Any such change must be proposed explicitly, discussed publicly, and supported by broad consensus among active participants and approval from the Chairs. This does not prevent BDFL succession under [BDFL Succession](#bdfl-succession).
 
 No change to this document may conflict with mandatory W3C Community Group requirements, including the W3C Community and Business Group Process, the W3C Code of Conduct, the W3C Community Contributor License Agreement, the W3C Community Final Specification Agreement, or applicable W3C report requirements.
 
