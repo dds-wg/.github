@@ -5,7 +5,7 @@ Planning document for building the DDS contributor community. Goal: a small, hig
 ## Channels
 
 - **GitHub** (primary): Issues, PRs, Discussions. This is where the work happens.
-- **Discord** (secondary): Real-time chat for coordination. Low-volume, high-signal. Not a support forum.
+- **Real-time chat** (secondary): Use for coordination and informal discussion when GitHub or the mailing list is too heavy.
 
 ## Growth Phases
 

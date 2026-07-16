@@ -4,8 +4,8 @@
 
 **DDS, the Decentralized Deliberation Stack, is an open project and W3C Community Group for sovereign, verifiable, interoperable, and resilient deliberation.** It separates the *process* of deliberation from the platforms that host it, so communities own their discussions, their data, and their outcomes. Built on [AT Protocol](https://atproto.com/) for identity and social infrastructure, with [Arweave](https://arweave.org/)/[Filecoin](https://filecoin.io/)/[Logos](https://logos.co/) for permanent archival and [Ethereum](https://ethereum.org/) for on-chain verification.
 
-DDS is maintained in the [DDS GitHub organization](https://github.com/dds-wg) and
-developed through the [W3C DDS Community Group](https://www.w3.org/community/dds/).
+DDS work is coordinated in public through the [DDS GitHub organization](https://github.com/dds-wg)
+and the [W3C DDS Community Group](https://www.w3.org/community/dds/).
 
 ## How It Works
 

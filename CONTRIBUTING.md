@@ -2,8 +2,8 @@
 
 DDS is early-stage and moving fast. All kinds of contributions are welcome, whether you care about decentralized deliberation, open stacks, or building things that matter. You don't need permission to start.
 
-DDS is maintained in the [DDS GitHub organization](https://github.com/dds-wg) and
-developed through the [W3C DDS Community Group](https://www.w3.org/community/dds/).
+DDS work is coordinated in public through the [DDS GitHub organization](https://github.com/dds-wg)
+and the [W3C DDS Community Group](https://www.w3.org/community/dds/).
 
 ## Principles
 
@@ -153,12 +153,11 @@ Add your full name and email to the `AUTHORS` file in the repository root when m
 
 ## Roles
 
-- **Contributor:** anyone who participates. Open an issue, submit a pull request, join a discussion, attend a call, help with docs, code, events, operations, or tools, and you're a contributor. Contributors remain external by default until they earn project access through trust and sustained quality contributions.
-- **Maintainer:** a trusted Contributor who earns responsibility for maintaining part of DDS through sustained quality contributions and has access to at least one DDS repository or official project tool in a non-admin or otherwise scoped role. Maintenance can cover code, specifications support, documentation, community operations, events, websites, infrastructure, repositories, or one or more official project tools. Joining the W3C DDS Community Group on w3.org does not automatically make someone a Maintainer.
-- **W3C DDS Community Group chairs:** coordinate and facilitate the W3C Community Group process, specification consensus, report publication, and W3C process alignment. Chairs are co-owners of the DDS GitHub organization and, together with the BDFL, may appoint Maintainers.
-- **BDFL:** initiated the W3C DDS Community Group and set the project's initial vision and goals. Administers official DDS project tools together with the Chairs, breaks deadlocks when broad consensus cannot be reached, may oppose proposals that conflict with the project's core objectives, and defers to the W3C Community Group process for specification work, Community Group reports, and publication decisions.
-
-See [GOVERNANCE.md](GOVERNANCE.md) for the full governance model.
+Role definitions live in [GOVERNANCE.md](GOVERNANCE.md), which is the canonical governance document.
+For the current definitions, see [Contributor](GOVERNANCE.md#contributor),
+[Maintainer](GOVERNANCE.md#maintainer),
+[W3C DDS Community Group Chairs](GOVERNANCE.md#w3c-dds-community-group-chairs),
+and [BDFL](GOVERNANCE.md#bdfl).
 
 ## Licensing
 

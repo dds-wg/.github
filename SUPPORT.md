@@ -10,7 +10,7 @@ Monthly community calls happen on the first Thursday of every month at 14:00 UTC
 
 [DDS Community Group Matrix room](https://matrix.to/#/#dds-wg:matrix.org)
 
-Real-time chat for quick questions and coordination. We keep it low-volume and high-signal.
+Use Matrix for real-time questions, coordination, and informal discussion.
 
 ### Mailing List
 
@@ -29,4 +29,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to file good issues and submit PR
 - **Website:** [https://www.dds.xyz](https://www.dds.xyz)
 - **Blog:** [https://www.dds.xyz/blog](https://www.dds.xyz/blog)
 - **Spec:** [https://www.dds.xyz/spec](https://www.dds.xyz/spec)
+- **W3C Community Group:** [https://www.w3.org/community/dds/](https://www.w3.org/community/dds/)
 - **Governance:** [GOVERNANCE.md](GOVERNANCE.md)
