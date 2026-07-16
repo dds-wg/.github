@@ -70,7 +70,7 @@ Currently: **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao))
 
 #### BDFL Succession
 
-The BDFL may appoint their own successor. If the BDFL has not appointed a successor and cannot be reached for one year despite reasonable public and private attempts, the Chairs facilitate a public succession process. Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
+The BDFL may appoint their own successor. If the BDFL has not appointed a successor and cannot be reached for one year despite reasonable public and private attempts, the Chairs facilitate a public succession process. In that case, Chairs and Maintainers select the successor after considering input from active participants and seeking broad consensus.
 
 ## Official Project Tools
 
