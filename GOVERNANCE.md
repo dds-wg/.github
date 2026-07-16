@@ -48,7 +48,7 @@ Chairs may contribute substantive views, but when acting as Chairs they are expe
 
 A Chair who repeatedly fails to facilitate fairly, blocks participation without process, misrepresents group consensus, fails to document material decisions, or uses Chair status to advance personal, organizational, financial, or factional interests may be challenged by participants. Concerns should first be raised publicly with the Chairs and BDFL where appropriate. If unresolved, or if direct public discussion would be unsafe or inappropriate, Chairs or participants may escalate the issue through the applicable W3C Community Group process, including the Community Development Lead or [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) process where relevant. Persistent failure to meet these expectations is grounds to seek removal of Chair status under applicable W3C process and this operational agreement.
 
-Chairs are co-owners of the DDS GitHub organization associated with the W3C DDS Community Group. Chairs review Maintainer appointments as described above.
+Chairs share responsibility with the BDFL for Maintainer appointment and removal processes, as described above, and for official project tool administration, as described in [Official Project Tools](#official-project-tools).
 
 Current chairs:
 
