@@ -11,12 +11,18 @@ and the [W3C DDS Community Group](https://www.w3.org/community/dds/).
 - **Favor progress over perfection.** We'd rather iterate on something real than debate something theoretical. Protocol changes get careful review; everything else moves fast.
 - **Bias toward doing.** Issues, proposals, and PRs are all welcome, whatever gets the conversation started. For protocol changes, an issue first helps align before investing in implementation.
 
-## How to Contribute
+## Community Context
+
+Join the [W3C DDS Community Group](https://www.w3.org/community/dds/) to stay informed about specification work, calls, and Community Group process. You do not need permission to open GitHub issues, submit pull requests, or start a discussion.
+
+Read and follow the [Code of Conduct](CODE_OF_CONDUCT.md). Role definitions live in [GOVERNANCE.md](GOVERNANCE.md), which is the canonical governance document. For the current definitions, see [Contributor](GOVERNANCE.md#contributor), [Maintainer](GOVERNANCE.md#maintainer), [W3C DDS Community Group Chairs](GOVERNANCE.md#w3c-dds-community-group-chairs), and [BDFL](GOVERNANCE.md#bdfl).
+
+DDS is not covered by a single licence. Specification work follows the W3C Community Group contribution process. The website and proof-of-concept software are licensed under MPL-2.0 unless another licence is explicitly stated. See the [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
 
 Specification contributions should follow the W3C DDS Community Group process
 and are governed by the [W3C Community Contributor License Agreement](https://www.w3.org/community/about/process/cla/).
-Website and proof-of-concept software contributions are licensed under MPL-2.0
-unless another licence is explicitly stated. See the [`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
+
+## How to Contribute
 
 ### Open an Issue
 
@@ -150,25 +156,6 @@ To set up commit signing, configure a GPG or SSH signing key. See the [commit ve
 ### AUTHORS File
 
 Add your full name and email to the `AUTHORS` file in the repository root when making your first contribution.
-
-## Roles
-
-Role definitions live in [GOVERNANCE.md](GOVERNANCE.md), which is the canonical governance document.
-For the current definitions, see [Contributor](GOVERNANCE.md#contributor),
-[Maintainer](GOVERNANCE.md#maintainer),
-[W3C DDS Community Group Chairs](GOVERNANCE.md#w3c-dds-community-group-chairs),
-and [BDFL](GOVERNANCE.md#bdfl).
-
-## Licensing
-
-DDS is not covered by a single licence. Specification work follows the W3C
-Community Group contribution process. The website and proof-of-concept software
-are licensed under MPL-2.0 unless another licence is explicitly stated. See the
-[`dds` licence map](https://github.com/dds-wg/dds/blob/main/COPYING-README.md).
-
-## Standards
-
-Read and follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Questions?
 
