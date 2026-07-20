@@ -36,7 +36,9 @@ No single platform controls the process. Any conforming tool can participate.
 We're early-stage and looking for people who care about deliberation infrastructure. You don't need permission to start contributing.
 
 - **[Contributing Guide](https://github.com/dds-wg/.github/blob/main/CONTRIBUTING.md):** How to participate
-- **[W3C Community Group](https://www.w3.org/community/dds/):** Join to stay informed about specification work and calls
+- **[Join the W3C Community Group](https://www.w3.org/community/dds/):** Participate in specification work and calls
+- **[Join the DDS Matrix room](https://matrix.to/#/#dds-wg:matrix.org):** Ask questions and chat with the community
+- **[Support and community channels](https://github.com/dds-wg/.github/blob/main/SUPPORT.md):** Find calls, the mailing list, and other ways to get help
 - **[Governance](https://github.com/dds-wg/.github/blob/main/GOVERNANCE.md):** How decisions are made
 - **[Code of Conduct](https://github.com/dds-wg/.github/blob/main/CODE_OF_CONDUCT.md):** Community standards
 
