@@ -55,6 +55,7 @@ Current chairs:
 - **Simone Vagnoni** ([@Stocastico96](https://github.com/Stocastico96))
 - **Nicolas Gimenez** ([@nicobao](https://github.com/nicobao)), current BDFL
 - **Lee DeSota** ([@salteelee](https://github.com/salteelee))
+- **Puja Ohlhaver** ([personal website](https://www.pujaohlhaver.com/))
 
 ### BDFL
 
