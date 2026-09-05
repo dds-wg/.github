@@ -13,6 +13,8 @@ and the [W3C DDS Community Group](https://www.w3.org/community/dds/).
 
 ## Community Context
 
+Our monthly plenary is open to everyone, whether or not you have joined the Community Group. Find dates and joining links in the [W3C calendar](https://www.w3.org/groups/cg/dds/calendar/), and follow the [Open Calls subscription instructions](SUPPORT.md#open-calls) to add future meetings to your personal calendar.
+
 Join the [W3C DDS Community Group](https://www.w3.org/community/dds/) to stay informed about specification work, calls, and Community Group process. You do not need permission to open GitHub issues, submit pull requests, or start a discussion.
 
 Read and follow the [Code of Conduct](CODE_OF_CONDUCT.md). Role definitions live in [GOVERNANCE.md](GOVERNANCE.md), which is the canonical governance document. For the current definitions, see [Contributor](GOVERNANCE.md#contributor), [Maintainer](GOVERNANCE.md#maintainer), [W3C DDS Community Group Chairs](GOVERNANCE.md#w3c-dds-community-group-chairs), and [BDFL](GOVERNANCE.md#bdfl).
